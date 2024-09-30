@@ -1,0 +1,75 @@
+<!-- Everything here goes inside of your <body></body> tags! -->
+  <div class="container">
+    <!-- top of the page links: -->
+    <div class="header">
+      <div class="header-left">
+        <a href="#">SLIMEYTAMALES</a>: <a href="#">weblog</a> - <a href="#">photos</a> - <a href="#">videos</a> - <a href="#">audio</a> - <a href="#">pulse</a> - <a href="#">profile</a> - <a href="#">follow meh!</a>
+      </div>
+      <div class="header-right">
+        <a href="#">review</a> - <a href="#">ratings</a> - <a href="#">flag</a> [ <a href="#">xanga</a> - <a href="#">join</a> - <a href="#">sign in</a> ]
+
+      </div>
+    </div>
+    <!-- main content -->
+    <div class="flex">
+      <!-- sidebar -->
+      <div class="left">
+        <div class="box">
+          <div class="boxwrap">
+            <div class="subtitle"><strong>SLIMEYTAMALES</strong></div>
+            <a href="#">read my profile</a><br>
+            
+<br>
+            <strong>Message:</strong> <a href="#">message me</a><br><br>
+            <strong>Member Since:</strong> 6/30/2006
+          </div>
+        </div>
+        <div class="box">
+          <div class="boxwrap">
+            <div class="subtitle">Subscriptions</div>
+            <a href="#">Subscribe to SLIMEYTAMALES</a><br>
+            <a href="#">Get trial subscription/a><br>
+          </div>
+        </div>
+        <div class="box">
+          <div class="boxwrap">
+            <div class="subtitle">My Blogrings</div>
+            <a class="blogring" href="#">Blogring Name</a>
+            <div class="blogringLinks">
+              <a href="#">previous</a> - <a href="#">random</a> - <a href="#">next</a>
+            </div>
+          </div>
+        </div>
+        <div class="box">
+          <div class="boxwrap">
+            <div class="subtitle">Posting Calendar</div>
+          </div>
+        </div>
+      </div>
+      <!-- content -->
+      <div class="right">
+        <div class="post">
+          <div class="date">Monday, September 30th, 2024</div>
+          <div class="title">Welcome to my Lair!!! </div>
+          <div class="entry">
+            <p>Hey!  I'm Kaiden.</p>
+            <p>I was born Nov.4th, 2003.  I'm pretty old. Autistic, major depression, anxiety, intellectual disability...  <em>There isn't much to my life if i'm honest.  This may just be a little diary or... Something? Personal.
+              <p>Here's a little about me...</p>
+
+      <p>Some of the things i'm interested in include: cutecore, pastels, gothic, gothic lolita, weirdcore, animals, piercings, tattoos, mlp, madness combat, tf2. pressure,roblox, evade, art, memes, my bf, youtube, caseoh, nexpo, dancing, metal, punk rock, walking barefoot on the beach, taking long walks and contemplating my existance.....</p>
+      <p>What do I NOT like?
+              
+              </p>Plenty!  I hate bugs, fatphobia, homophobia, racism, mushy foods... IM LOOKIN AT YOU BEANS AND MASHED POTATOS.... Yuck!
+          </div>
+          <div class="postFooter"><a href="#">6:34 PM</a> - <a href="#">2 eProps</a> - <a href="#">add comments</a> - <a href="#">email it</a></div>
+        </div>
+      </div>
+    </div>
+    <!-- footer -->
+    <div class="footer">
+      <a href="#">xanga</a> - <a href="#">your site</a> - <a href="#">terms</a> - <a href="#">privacy</a> - <a href="#">jobs</a> - <a href="#">help</a> - <a href="#">press</a> - <a href="#">join</a> - <a href="#">Language</a><br><br>
+      <a href="#">safety</a> - <a href="#">parents</a> - <a href="#">law enforcement</a><br><br>
+      <a href="#">report inappropriate content</a>
+          <br><br>
+    This  layout was lovingly re-crafted by <a href="https://sadgrl.online/">sadgrl.online</a>
+    </div>
